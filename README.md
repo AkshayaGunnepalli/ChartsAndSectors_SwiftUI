@@ -1,7 +1,10 @@
-# 📊 SwiftUI Charts Demo – Donut & Bar Graph
+# 📊 SwiftUI Charts Demo – Donut, Pie & Bar Graphs
 
-This project demonstrates how to use Apple’s **Charts framework** in SwiftUI to create interactive and visually appealing data visualizations. It includes:
+This project demonstrates how to use **Apple’s Swift Charts** in **SwiftUI** to build beautiful and interactive data visualizations.
 
-- 🍩 **Donut Chart**: Visualizes product distribution ratios with adjustable values and radius.
-- 📊 **Bar Graph**: Displays product counts with animated updates on interaction.
+## 🎨 Included Charts
+
+- 🍩 **Donut Chart** — A circular chart with a configurable inner radius.
+- 🥧 **Pie Chart** — Same as Donut, but with full inner fill (when radius = 0).
+- 📊 **Bar Graph** — A vertical chart showing item quantities.
 
